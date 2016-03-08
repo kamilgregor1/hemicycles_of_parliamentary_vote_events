@@ -1,0 +1,201 @@
+name,party,option_code,color
+"Alexander Cerny (KSCM, Olomoucky)",KSCM,-1,red
+"Rene Cip (KSCM, Moravskoslezsky)",KSCM,-1,red
+"Jiri Dolejs (KSCM, Praha)",KSCM,-1,red
+"Miroslav Grebenicek (KSCM, Jihomoravsky)",KSCM,-1,red
+"Gabriela Hubackova (KSCM, Ustecky)",KSCM,-1,red
+"Jan Klan (KSCM, Stredocesky)",KSCM,-1,red
+"Vladimir Konicek (KSCM, Zlinsky)",KSCM,-1,red
+"Pavel Kovacik (KSCM, Vysocina)",KSCM,-1,red
+"Stanislav Mackovik (KSCM, Liberecky)",KSCM,-1,red
+"Kveta Matusovska (KSCM, Pardubicky)",KSCM,-1,red
+"Josef Nekl (KSCM, Olomoucky)",KSCM,-1,red
+"Zdenek Ondracek (KSCM, Kralovehradecky)",KSCM,-1,red
+"Miroslav Opalka (KSCM, Moravskoslezsky)",KSCM,-1,red
+"Marie Pencikova (KSCM, Zlinsky)",KSCM,-1,red
+"Ivo Pojezny (KSCM, Jihomoravsky)",KSCM,-1,red
+"Marta Semelova (KSCM, Praha)",KSCM,-1,red
+"Vaclav Snopek (KSCM, Pardubicky)",KSCM,-1,red
+"Josef Senfeld (KSCM, Ustecky)",KSCM,-1,red
+"Karel Sidlo (KSCM, Plzensky)",KSCM,-1,red
+"Jiri Valenta (KSCM, Plzensky)",KSCM,-1,red
+"Miloslava Vostra (KSCM, Stredocesky)",KSCM,-1,red
+"Josef Zahradnicek (KSCM, Vysocina)",KSCM,-1,red
+"Leo Luzar (KSCM, Moravskoslezsky)",KSCM,-1,red
+"Petr Adam (Usvit, Jihomoravsky)",Usvit,-1,yellowgreen
+"Augustin Karel Andrle Sylor (Usvit, Pardubicky)",Usvit,-1,yellowgreen
+"Marek Cernoch (Usvit, Stredocesky)",Usvit,-1,yellowgreen
+"Radim Fiala (Usvit, Olomoucky)",Usvit,-1,yellowgreen
+"Karel Fiedler (Usvit, Moravskoslezsky)",Usvit,-1,yellowgreen
+"Olga Havlova (Usvit, Moravskoslezsky)",Usvit,-1,yellowgreen
+"Jaroslav Holik (Usvit, Zlinsky)",Usvit,-1,yellowgreen
+"David Kadner (Usvit, Ustecky)",Usvit,-1,yellowgreen
+"Martin Lank (Usvit, Vysocina)",Usvit,-1,yellowgreen
+"Tomio Okamura (Usvit, Stredocesky)",Usvit,-1,yellowgreen
+"Karel Prazak (Usvit, Jihocesky)",Usvit,-1,yellowgreen
+"Jiri Stetina (Usvit, Kralovehradecky)",Usvit,-1,yellowgreen
+"Jiri Zlatuska (ANO, Praha)",ANO,-1,cyan
+"Marketa Adamova (TOP09-S, Praha)",TOP 09,-1,darkviolet
+"Zdenek Bezecny (TOP09-S, Jihocesky)",TOP 09,-1,darkviolet
+"Petr Gazdik (TOP09-S, Zlinsky)",TOP 09,-1,darkviolet
+"Leos Heger (TOP09-S, Kralovehradecky)",TOP 09,-1,darkviolet
+"Vaclav Horacek (TOP09-S, Liberecky)",TOP 09,-1,darkviolet
+"Miroslav Kalousek (TOP09-S, Stredocesky)",TOP 09,-1,darkviolet
+"Daniel Korte (TOP09-S, Praha)",TOP 09,-1,darkviolet
+"Rom Kostrica (TOP09-S, Jihomoravsky)",TOP 09,-1,darkviolet
+"Jiri Koubek (TOP09-S, Praha)",TOP 09,-1,darkviolet
+"Michal Kucera (TOP09-S, Ustecky)",TOP 09,-1,darkviolet
+"Helena Langsadlova (TOP09-S, Stredocesky)",TOP 09,-1,darkviolet
+"Frantisek Laudat (TOP09-S, Praha)",TOP 09,-1,darkviolet
+"Herbert Pavera (TOP09-S, Moravskoslezsky)",TOP 09,-1,darkviolet
+"Gabriela Peckova (TOP09-S, Praha)",TOP 09,-1,darkviolet
+"Jiri Skalicky (TOP09-S, Pardubicky)",TOP 09,-1,darkviolet
+"Marek Zenisek (TOP09-S, Plzensky)",TOP 09,-1,darkviolet
+"Martin Plisek (TOP09-S, Praha)",TOP 09,-1,darkviolet
+"Ivan Adamec (ODS, Kralovehradecky)",ODS,-1,blue
+"Pavel Blazek (ODS, Jihomoravsky)",ODS,-1,blue
+"Jana Cernochova (ODS, Praha)",ODS,-1,blue
+"Petr Fiala (ODS, Jihomoravsky)",ODS,-1,blue
+"Jana Fischerova (ODS, Vysocina)",ODS,-1,blue
+"Radim Holecek (ODS, Ustecky)",ODS,-1,blue
+"Simeon Karamazov (ODS, Pardubicky)",ODS,-1,blue
+"Miroslava Nemcova (ODS, Praha)",ODS,-1,blue
+"Martin Novotny (ODS, Olomoucky)",ODS,-1,blue
+"Zbynek Stanjura (ODS, Moravskoslezsky)",ODS,-1,blue
+"Bohuslav Svoboda (ODS, Praha)",ODS,-1,blue
+"Jan Zahradnik (ODS, Jihocesky)",ODS,-1,blue
+"Vladislav Vilimec (ODS, Plzensky)",ODS,-1,blue
+"Vojtech Adam (KSCM, Jihomoravsky)",KSCM,0,red
+"Hana Aulicka Jirovcova (KSCM, Ustecky)",KSCM,0,red
+"Zuzka Bebarova Rujbrova (KSCM, Jihomoravsky)",KSCM,0,red
+"Jaroslav Borka (KSCM, Karlovarsky)",KSCM,0,red
+"Vojtech Filip (KSCM, Jihocesky)",KSCM,0,red
+"Stanislav Grospic (KSCM, Stredocesky)",KSCM,0,red
+"Milada Halikova (KSCM, Moravskoslezsky)",KSCM,0,red
+"Sona Markova (KSCM, Kralovehradecky)",KSCM,0,red
+"Alena Nohavova (KSCM, Jihocesky)",KSCM,0,red
+"Josef Vondrasek (KSCM, Stredocesky)",KSCM,0,red
+"Vitezslav Jandak (CSSD, Jihocesky)",CSSD,0,orange
+"Josef Novotny (CSSD, Karlovarsky)",CSSD,0,orange
+"Antonin Seda (CSSD, Zlinsky)",CSSD,0,orange
+"Lubomir Zaoralek (CSSD, Moravskoslezsky)",CSSD,0,orange
+"Jana Hnykova (Usvit, Liberecky)",Usvit,0,yellowgreen
+"Milan Sarapatka (Usvit, Praha)",Usvit,0,yellowgreen
+"Ivana Dobesova (ANO, Stredocesky)",ANO,0,cyan
+"Igor Nykl (ANO, Moravskoslezsky)",ANO,0,cyan
+"Martin Sedlar (ANO, Moravskoslezsky)",ANO,0,cyan
+"Radek Vondracek (ANO, Zlinsky)",ANO,0,cyan
+"Marian Jurecka (KDU-CSL, Olomoucky)",KDU-CSL,0,yellow
+"Tomas Jan Podivinsky (KDU-CSL, Moravskoslezsky)",KDU-CSL,0,yellow
+"Jan Farsky (TOP09-S, Liberecky)",TOP 09,0,darkviolet
+"Jitka Chalankova (TOP09-S, Olomoucky)",TOP 09,0,darkviolet
+"Vera Kovarova (TOP09-S, Stredocesky)",TOP 09,0,darkviolet
+"Jaroslav Lobkowicz (TOP09-S, Plzensky)",TOP 09,0,darkviolet
+"Nina Novakova (TOP09-S, Stredocesky)",TOP 09,0,darkviolet
+"Anna Putnova (TOP09-S, Jihomoravsky)",TOP 09,0,darkviolet
+"Karel Schwarzenberg (TOP09-S, Praha)",TOP 09,0,darkviolet
+"Karel Turecek (TOP09-S, Vysocina)",TOP 09,0,darkviolet
+"Frantisek Vacha (TOP09-S, Jihocesky)",TOP 09,0,darkviolet
+"Marek Benda (ODS, Praha)",ODS,0,blue
+"Petr Bendl (ODS, Stredocesky)",ODS,0,blue
+"Frantisek Adamek (CSSD, Praha)",CSSD,1,orange
+"Pavel Antonin (CSSD, Vysocina)",CSSD,1,orange
+"Jiri Behounek (CSSD, Vysocina)",CSSD,1,orange
+"Marie Benesova (CSSD, Ustecky)",CSSD,1,orange
+"Jan Birke (CSSD, Kralovehradecky)",CSSD,1,orange
+"Robin Bohnisch (CSSD, Kralovehradecky)",CSSD,1,orange
+"Karel Cerny (CSSD, Vysocina)",CSSD,1,orange
+"Richard Dolejs (CSSD, Stredocesky)",CSSD,1,orange
+"Jaroslav Foldyna (CSSD, Ustecky)",CSSD,1,orange
+"Jan Hamacek (CSSD, Stredocesky)",CSSD,1,orange
+"Pavel Havir (CSSD, Pardubicky)",CSSD,1,orange
+"Pavel Holik (CSSD, Olomoucky)",CSSD,1,orange
+"Stanislav Huml (CSSD, Stredocesky)",CSSD,1,orange
+"Milan Chovanec (CSSD, Plzensky)",CSSD,1,orange
+"Jan Chvojka (CSSD, Pardubicky)",CSSD,1,orange
+"Igor Jakubcik (CSSD, Plzensky)",CSSD,1,orange
+"Zuzana Kailova (CSSD, Ustecky)",CSSD,1,orange
+"Vaclav Klucka (CSSD, Moravskoslezsky)",CSSD,1,orange
+"Petr Korenek (CSSD, Zlinsky)",CSSD,1,orange
+"Jiri Koskuba (CSSD, Praha)",CSSD,1,orange
+"Jaroslav Krakora (CSSD, Ustecky)",CSSD,1,orange
+"Jan Mladek (CSSD, Jihocesky)",CSSD,1,orange
+"Pavlina Nytrova (CSSD, Moravskoslezsky)",CSSD,1,orange
+"Jiri Petru (CSSD, Jihomoravsky)",CSSD,1,orange
+"Lukas Pleticha (CSSD, Liberecky)",CSSD,1,orange
+"Pavel Ploc (CSSD, Liberecky)",CSSD,1,orange
+"Adam Rykala (CSSD, Moravskoslezsky)",CSSD,1,orange
+"Roman Sklenak (CSSD, Jihomoravsky)",CSSD,1,orange
+"Bohuslav Sobotka (CSSD, Jihomoravsky)",CSSD,1,orange
+"Miroslava Strnadlova (CSSD, Zlinsky)",CSSD,1,orange
+"Stepan Stupcuk (CSSD, Praha)",CSSD,1,orange
+"Ladislav Sincl (CSSD, Moravskoslezsky)",CSSD,1,orange
+"Jeronym Tejc (CSSD, Jihomoravsky)",CSSD,1,orange
+"Lubomir Toufar (CSSD, Jihomoravsky)",CSSD,1,orange
+"Milan Urban (CSSD, Stredocesky)",CSSD,1,orange
+"Dana Vahalova (CSSD, Moravskoslezsky)",CSSD,1,orange
+"Roman Vana (CSSD, Olomoucky)",CSSD,1,orange
+"Ladislav Velebny (CSSD, Moravskoslezsky)",CSSD,1,orange
+"Vaclav Votava (CSSD, Plzensky)",CSSD,1,orange
+"Marketa Wernerova (CSSD, Karlovarsky)",CSSD,1,orange
+"Jaroslav Zavadil (CSSD, Praha)",CSSD,1,orange
+"Jiri Zemanek (CSSD, Olomoucky)",CSSD,1,orange
+"Vaclav Zemek (CSSD, Stredocesky)",CSSD,1,orange
+"Vlasta Bohdalova (CSSD, Jihocesky)",CSSD,1,orange
+"Vlastimil Gabrhel (CSSD, Jihomoravsky)",CSSD,1,orange
+"Zdenek Syblik (CSSD, Stredocesky)",CSSD,1,orange
+"Andrej Babis (ANO, Praha)",ANO,1,cyan
+"Milos Babis (ANO, Stredocesky)",ANO,1,cyan
+"Margita Balastikova (ANO, Zlinsky)",ANO,1,cyan
+"Martina Berdychova (ANO, Kralovehradecky)",ANO,1,cyan
+"Stanislav Berkovec (ANO, Stredocesky)",ANO,1,cyan
+"Richard Brabec (ANO, Ustecky)",ANO,1,cyan
+"Milan Brazdil (ANO, Olomoucky)",ANO,1,cyan
+"Pavel Cihak (ANO, Stredocesky)",ANO,1,cyan
+"Jaroslav Faltynek (ANO, Olomoucky)",ANO,1,cyan
+"Matej Fichtner (ANO, Praha)",ANO,1,cyan
+"Josef Hajek (ANO, Moravskoslezsky)",ANO,1,cyan
+"Jiri Holecek (ANO, Praha)",ANO,1,cyan
+"Bohuslav Chalupa (ANO, Jihomoravsky)",ANO,1,cyan
+"Miloslav Janulik (ANO, Jihomoravsky)",ANO,1,cyan
+"Jaroslava Jermanova (ANO, Stredocesky)",ANO,1,cyan
+"David Kasal (ANO, Pardubicky)",ANO,1,cyan
+"Martin Kolovratnik (ANO, Pardubicky)",ANO,1,cyan
+"Martin Komarek (ANO, Liberecky)",ANO,1,cyan
+"Roman Kubicek (ANO, Jihocesky)",ANO,1,cyan
+"Jana Lorencova (ANO, Moravskoslezsky)",ANO,1,cyan
+"Radka Maxova (ANO, Jihocesky)",ANO,1,cyan
+"Ladislav Oklestek (ANO, Olomoucky)",ANO,1,cyan
+"Jana Pastuchova (ANO, Liberecky)",ANO,1,cyan
+"Stanislav Pfleger (ANO, Ustecky)",ANO,1,cyan
+"Ivan Pilny (ANO, Kralovehradecky)",ANO,1,cyan
+"Pavel Plzak (ANO, Kralovehradecky)",ANO,1,cyan
+"Roman Prochazka (ANO, Karlovarsky)",ANO,1,cyan
+"Karel Rais (ANO, Jihomoravsky)",ANO,1,cyan
+"Jan Sedlacek (ANO, Moravskoslezsky)",ANO,1,cyan
+"Bronislav Schwarz (ANO, Ustecky)",ANO,1,cyan
+"Zdenek Soukup (ANO, Karlovarsky)",ANO,1,cyan
+"Martin Stropnicky (ANO, Jihomoravsky)",ANO,1,cyan
+"Pavel Sramek (ANO, Plzensky)",ANO,1,cyan
+"Helena Valkova (ANO, Praha)",ANO,1,cyan
+"Pavel Volcik (ANO, Zlinsky)",ANO,1,cyan
+"Jan Volny (ANO, Plzensky)",ANO,1,cyan
+"Josef Vozdecky (ANO, Plzensky)",ANO,1,cyan
+"Vlastimil Vozka (ANO, Ustecky)",ANO,1,cyan
+"Rostislav Vyzula (ANO, Jihomoravsky)",ANO,1,cyan
+"Kristyna Zelienkova (ANO, Stredocesky)",ANO,1,cyan
+"Josef Kott (ANO, Vysocina)",ANO,1,cyan
+"Zuzana Sanova (ANO, Vysocina)",ANO,1,cyan
+"Jan Bartosek (KDU-CSL, Jihocesky)",KDU-CSL,1,yellow
+"Pavel Belobradek (KDU-CSL, Kralovehradecky)",KDU-CSL,1,yellow
+"Ondrej Benesik (KDU-CSL, Zlinsky)",KDU-CSL,1,yellow
+"Ivan Gabal (KDU-CSL, Stredocesky)",KDU-CSL,1,yellow
+"Daniel Herman (KDU-CSL, Praha)",KDU-CSL,1,yellow
+"Ludvik Hovorka (KDU-CSL, Zlinsky)",KDU-CSL,1,yellow
+"Jiri Junek (KDU-CSL, Pardubicky)",KDU-CSL,1,yellow
+"Vit Kankovsky (KDU-CSL, Vysocina)",KDU-CSL,1,yellow
+"Jaroslav Klaska (KDU-CSL, Jihomoravsky)",KDU-CSL,1,yellow
+"Petr Kudela (KDU-CSL, Moravskoslezsky)",KDU-CSL,1,yellow
+"Jiri Mihola (KDU-CSL, Jihomoravsky)",KDU-CSL,1,yellow
+"Josef Uhlik (KDU-CSL, Jihomoravsky)",KDU-CSL,1,yellow
+"Adolf Beznoska (ODS, Stredocesky)",ODS,1,blue
